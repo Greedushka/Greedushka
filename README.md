@@ -10,6 +10,7 @@ Languages and Tools
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-020f1c?style=for-the-badge&logo=javascript&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-ffffff?style=for-the-badge&logo=typescript&logoColor=2176b2)
 
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
