@@ -36,8 +36,10 @@ Languages and Tools
 
 
 
-
-
+![file_1](https://github.com/Greedushka/Greedushka/assets/79110729/d4c4debe-664b-4851-9a04-dbdb0807b2dc)
+![file_2](https://github.com/Greedushka/Greedushka/assets/79110729/8417152b-078e-4f0b-931c-7616319b7662)
+![file_3](https://github.com/Greedushka/Greedushka/assets/79110729/551682ff-1f3f-48e0-9ba0-bbf23ae7a4c6)
+![file_5](https://github.com/Greedushka/Greedushka/assets/79110729/5b76df57-8c9b-458b-9b5f-53ac346271a3)
 
 Latest blogs
 
